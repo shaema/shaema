@@ -2,10 +2,6 @@
 	path = assets
 	url = git@github.com:shaema/assets.git
 
-[submodule "prototype"]
-	path = prototype
-	url = git@gitlab.com:shaema/prototype.git
-
 [submodule "game"]
 	path = game
 	url = git@gitlab.com:shaema/game.git
